@@ -2,7 +2,7 @@
 
 A4 GitHub Web Page Project   
 
-Group members:     
+**Group members:**     
 
 [Derek Fronczkewicz](https://github.com/dfroncz)     
 [Helene Liobard](https://github.com/Helene-33)   
