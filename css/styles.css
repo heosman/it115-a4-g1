@@ -24,7 +24,7 @@ h2 {
 }
 
 body {
-  background: cadetblue;
+  background: rgb(153, 205, 207);
 }
 
 p {
@@ -37,7 +37,7 @@ p {
 }
 
 .shark {
-  width: 750px;
+  width: 700px;
   margin: 20px;
   border: 1px solid black;
   border-radius: 50px;
@@ -75,6 +75,13 @@ a:hover {
   border: 1px solid black;
   padding: 5px;
   font-size: 16px;
+}
+
+div ul {
+  margin-left: 25px;
+  margin-bottom: 10px;
+  font-family: calibri;
+  font-size: 20px;
 }
 
 footer {
