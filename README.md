@@ -2,7 +2,7 @@
 
 A4 GitHub Web Page Project   
 
-Visit our Github page [here](https://heosman.github.io/it115-a4-g1/)!
+Visit our Github page [here](https://heosman.github.io/it115-a4-g1/) ⭧
 
 **Group members:**     
 
