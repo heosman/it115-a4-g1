@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
 :root {
-  --light-blue: #bbdefb;
+  --light-blue: #90caf9;
   --blue: #64b5f6;
   --white: white;
 }
@@ -198,4 +198,3 @@ section .cover {
   font-weight: 500;
   color: var(--white);
 }
-
