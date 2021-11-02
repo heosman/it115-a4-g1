@@ -30,7 +30,8 @@ header {
 }
 
 header h1 {
-  font-size: 75px;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 125px;
   color: var(--blue);
 }
 
@@ -38,6 +39,7 @@ h1,
 h2 {
   text-align: center;
   padding-top: 20px;
+  font-family: Lucida Console, monospace;
 }
 
 .shark {
@@ -173,14 +175,16 @@ section .cover {
   text-align: center;
   margin-bottom: 100px;
   font-size: 30px;
+  font-family: Lucida Console, monospace;
 }
 
 .info-text {
   width: 100%;
   text-align: center;
   margin-bottom: 20px;
-  font-size: 1.5em;
+  font-size: 20px;
   font-weight: 600;
+  font-family: Lucida Console, monospace;
 }
 
 .more-info {
